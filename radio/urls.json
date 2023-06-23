@@ -1,1 +1,37 @@
-{"abc":"123"}
+{"name":"KVCR"  ,"desc":"KVCR FM 91.9 San Bernardino"                ,"url":"https://mp3.kvcr.org/live.mp3"                }
+{"name":"KSUA"  ,"desc":"KSUA FM 91.5 University of Alaska Fairbanks","url":"https://stream.radio.co/se776fab22/listen"    }
+{"name":"KUAC"  ,"desc":"KUAC FM 89.9 Fairbanks"                     ,"url":"https://ais-sa1.streamon.fm/7180_24k.aac"     }
+{"name":"WAMU"  ,"desc":"WAMU FM 88.5 Washington, DC"                ,"url":"http://wamu.org/streams/live/1/live.pls"      }
+{"name":"WAMU2" ,"desc":"","url":""}
+{"name":"KPCC"  ,"desc":"","url":""}
+{"name":"KOMO"  ,"desc":"","url":""}
+{"name":"KKJZ"  ,"desc":"","url":""}
+{"name":"KSDS"  ,"desc":"","url":""}
+{"name":"KEMC"  ,"desc":"","url":""}
+{"name":"WHUS"  ,"desc":"","url":""}
+{"name":"WWVU"  ,"desc":"","url":""}
+{"name":"WXPN"  ,"desc":"","url":""}
+{"name":"KPBS"  ,"desc":"","url":""}
+{"name":"KQED"  ,"desc":"","url":""}
+{"name":"KTNA"  ,"desc":"","url":""}
+{"name":"KRTS"  ,"desc":"","url":""}
+{"name":"WVPR"  ,"desc":"","url":""}
+{"name":"WNYC"  ,"desc":"","url":""}
+{"name":"WBUR"  ,"desc":"","url":""}
+{"name":"KHPR"  ,"desc":"","url":""}
+{"name":"KIPO"  ,"desc":"","url":""}
+{"name":"KIOS"  ,"desc":"","url":""}
+{"name":"KUCV"  ,"desc":"","url":""}
+{"name":"WAMC"  ,"desc":"","url":""}
+{"name":"WBTN"  ,"desc":"","url":""}
+{"name":"WLRN"  ,"desc":"","url":""}
+{"name":"WUSF"  ,"desc":"","url":""}
+{"name":"WSMR"  ,"desc":"","url":""}
+{"name":"WUCF"  ,"desc":"","url":""}
+{"name":"WUFT"  ,"desc":"","url":""}
+{"name":"WGCU"  ,"desc":"90.1 FM Fort Myers"                         ,"url":"https://live.streamtheworld.com/WGCUFM.mp3"   }
+{"name":"NPR24" ,"desc":"NPR 24"                                     ,"url":"https://www.npr.org/streams/mp3/nprlive24.pls"}
+{"name":"GVSDe" ,"desc":"Soma FM - Groove Salad"                     ,"url":"https://ice.somafm.com/groovesalad"           }
+{"name":"GVSD"  ,"desc":"Soma FM - Groove Salad 128k mp3"            ,"url":"https://somafm.com/groovesalad.pls"           }
+{"name":"GVSD32","desc":"Soma FM - Groove Salad 32k aac"             ,"url":"https://somafm.com/groovesalad32.pls"         }
+{"name":"GVSD64","desc":"Soma FM - Groove Salad 64k aac"             ,"url":"https://somafm.com/groovesalad64.pls"         }
