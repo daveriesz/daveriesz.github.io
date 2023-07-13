@@ -1,0 +1,54 @@
+#!/bin/bash
+
+indexurl=https://riesz.io/radio/urls.json
+indexfile=
+debug=1
+dolist=0
+
+while [ $# -gt 0 ] ; do
+  arg=`echo "$1" | sed "s/^\([^=][^=]*=\)\(.*\)$/\1/g"`
+  val=`echo "$1" | sed "s/^\([^=][^=]*=\)\(.*\)$/\2/g"`
+  case "$arg" in
+    --url=) indexurl="$val" ;;
+    --file=) indexfile="$val" ;;
+    --list) dolist=1 ;;
+    --debug|-g) debug=1 ;;
+    --nodebug|+g) debug=0 ;;
+    *) station=$1 ;;
+  esac
+  shift
+done
+
+if [ $debug -eq 1 ] ; then
+  printf "debug     = %d\n" "$debug"
+  printf "indexurl  = %s\n" "$indexurl"
+  printf "indexfile = %s\n" "$indexfile"
+  printf "station   = %s\n" "$station"
+  printf "dolist    = %d\n" "$dolist"
+fi
+
+if [ "$indexfile" != "" -a -f "$indexfile" ] ; then
+  printf "Index: %s\n" "$indexfile"
+  urllistdata=$(cat "$indexfile")
+else
+  printf "Index: %s\n" "$indexurl"
+  urllistdata=$(curl -s -k "$indexurl")
+fi
+
+if [ $dolist -ne 0 ] ; then
+  echo "${urllistdata}" | jq -r '. | "\(.name)|\(.desc)"' | column -t -s '|'
+  exit 0
+fi
+
+IFS='|' read name desc url < <(jq -r '. | select(.name | test("^'"$station"'$"; "i")) | "\(.name)|\(.desc)|\(.url)"' <<< "$urllistdata")
+
+if [ $debug -eq 1 ] ; then
+  printf "name = %s\n" "$name"
+  printf "desc = %s\n" "$desc"
+  printf "url  = %s\n" "$url"
+fi
+
+printf "Streaming %s\n          %s\n" "$desc" "$url"
+
+mpv "$url"
+echo mpv ended with code $?
