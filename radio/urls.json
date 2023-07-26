@@ -1,18 +1,18 @@
-{"name":"KVCR"  ,"desc":"KVCR FM   91.9 San Bernardino"                ,"url":"https://mp3.kvcr.org/live.mp3"}
-{"name":"KSUA"  ,"desc":"KSUA FM   91.5 University of Alaska Fairbanks","url":"https://stream.radio.co/se776fab22/listen"}
-{"name":"KUAC"  ,"desc":"KUAC FM   89.9 Fairbanks"                     ,"url":"https://ais-sa1.streamon.fm/7180_24k.aac"}
-{"name":"WAMU"  ,"desc":"WAMU FM   88.5 Washington, DC"                ,"url":"http://wamu.org/streams/live/1/live.pls"}
-{"name":"KPCC"  ,"desc":"KPCC FM   89.3 Pasadena"                      ,"url":"https://live.wostreaming.net/direct/southerncalipr-kpccfmmp3-imc.mp3"}
-{"name":"KOMO"  ,"desc":"KOMO AM 1000   Seattle"                       ,"url":""}
-{"name":"KKJZ"  ,"desc":"KKJZ FM   88.1 Long Beach"                    ,"url":"https://18243.live.streamtheworld.com/KKJZFMAAC.aac"}
-{"name":"KSDS"  ,"desc":"KSDS FM   88.3 San Diego"                     ,"url":"https://ksds-ice.streamguys1.com/ksds.mp3"}
-{"name":"KEMC"  ,"desc":"KEMC FM   91.7 Billings"                      ,"url":"https://ypr.streamguys1.com/live"}
-{"name":"WHUS"  ,"desc":"WHUS FM   91.7 University of Connecticut"     ,"url":"http://stream.whus.org:8000/whusfm.m3u"}
-{"name":"WWVU"  ,"desc":"WWVU FM   91.7 West Virginia University"      ,"url":"https://stream.radiojar.com/56p3rt9eytzuv"}
-{"name":"WXPN"  ,"desc":"WXPN FM   88.5 Philadelphia"                  ,"url":"https://wxpn.xpn.org/xpnmp3hi"}
-{"name":"KPBS"  ,"desc":"KPBS FM   89.5 San Diego"                     ,"url":"https://kpbs.streamguys1.com/kpbs.m3u"}
-{"name":"KQED"  ,"desc":"KQED FM   88.5 San Francisco"                 ,"url":""}
-{"name":"KTNA"  ,"desc":"KTNA FM   88.9 Talkeetna, Alaska"             ,"url":"https://ktna.broadcasttool.stream/play"}
+{"name":"KVCR"  ,"desc":"KVCR   91.9 FM San Bernardino"                ,"url":"https://mp3.kvcr.org/live.mp3"}
+{"name":"KSUA"  ,"desc":"KSUA   91.5 FM University of Alaska Fairbanks","url":"https://stream.radio.co/se776fab22/listen"}
+{"name":"KUAC"  ,"desc":"KUAC   89.9 FM Fairbanks"                     ,"url":"https://ais-sa1.streamon.fm/7180_24k.aac"}
+{"name":"WAMU"  ,"desc":"WAMU   88.5 FM Washington, DC"                ,"url":"http://wamu.org/streams/live/1/live.pls"}
+{"name":"KPCC"  ,"desc":"KPCC   89.3 FM Pasadena"                      ,"url":"https://live.wostreaming.net/direct/southerncalipr-kpccfmmp3-imc.mp3"}
+{"name":"KOMO"  ,"desc":"KOMO 1000   AM Seattle"                       ,"url":""}
+{"name":"KKJZ"  ,"desc":"KKJZ   88.1 FM Long Beach"                    ,"url":"https://18243.live.streamtheworld.com/KKJZFMAAC.aac"}
+{"name":"KSDS"  ,"desc":"KSDS   88.3 FM San Diego"                     ,"url":"https://ksds-ice.streamguys1.com/ksds.mp3"}
+{"name":"KEMC"  ,"desc":"KEMC   91.7 FM Billings"                      ,"url":"https://ypr.streamguys1.com/live"}
+{"name":"WHUS"  ,"desc":"WHUS   91.7 FM University of Connecticut"     ,"url":"http://stream.whus.org:8000/whusfm.m3u"}
+{"name":"WWVU"  ,"desc":"WWVU   91.7 FM West Virginia University"      ,"url":"https://stream.radiojar.com/56p3rt9eytzuv"}
+{"name":"WXPN"  ,"desc":"WXPN   88.5 FM Philadelphia"                  ,"url":"https://wxpn.xpn.org/xpnmp3hi"}
+{"name":"KPBS"  ,"desc":"KPBS   89.5 FM San Diego"                     ,"url":"https://kpbs.streamguys1.com/kpbs.m3u"}
+{"name":"KQED"  ,"desc":"KQED   88.5 FM San Francisco"                 ,"url":""}
+{"name":"KTNA"  ,"desc":"KTNA   88.9 FM Talkeetna, Alaska"             ,"url":"https://ktna.broadcasttool.stream/play"}
 {"name":"KRTS"  ,"desc":""                                             ,"url":""}
 {"name":"WVPR"  ,"desc":""                                             ,"url":""}
 {"name":"WNYC"  ,"desc":""                                             ,"url":""}
