@@ -55,8 +55,9 @@ if [ "$url" != "" ] ; then
   printf "Streaming %s\n          %s\n" "$desc" "$url"
 
   mpv "$url"
-  echo mpv ended with code $?
-  exit $?
+  exicode=$?
+  echo mpv ended with code $exitcode
+  exit $exitcode
 else
   echo "Couldn't find stream for station \"$station\"."
   exit 1
