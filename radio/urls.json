@@ -32,10 +32,6 @@
 {"name":"KSDP"    ,"desc":"KSDP  830   AM Sand Point, Alaska"            ,"url":"https://stream.apradio.org/stream.aac"}
 {"name":"WGCU"    ,"desc":"WGCU   90.1 FM Fort Myers, Florida"           ,"url":"https://live.streamtheworld.com/WGCUFM.mp3"}
 {"name":"NPR24"   ,"desc":"NPR 24"                                       ,"url":"https://www.npr.org/streams/mp3/nprlive24.pls"}
-{"name":"GVSDe"   ,"desc":"Soma FM - Groove Salad"                       ,"url":"https://ice.somafm.com/groovesalad"}
 {"name":"GVSD"    ,"desc":"Soma FM - Groove Salad 128k mp3"              ,"url":"https://somafm.com/groovesalad.pls"}
-{"name":"GVSD32"  ,"desc":"Soma FM - Groove Salad  32k aac"              ,"url":"https://somafm.com/groovesalad32.pls"}
-{"name":"GVSD64"  ,"desc":"Soma FM - Groove Salad  64k aac"              ,"url":"https://somafm.com/groovesalad64.pls"}
 {"name":"DEFCON"  ,"desc":"Soma FM - DEF CON      128k mp3"              ,"url":"https://somafm.com/defcon.pls"}
-{"name":"DEFCON32","desc":"Soma FM - DEF CON       32k aac"              ,"url":"https://somafm.com/defcon32.pls"}
-{"name":"DEFCON64","desc":"Soma FM - DEF CON       64k aac"              ,"url":"https://somafm.com/defcon64.pls"}
+{"name":"CLIQHOP" ,"desc":"Soma FM - cliqhop idm"                        ,"url":"https://somafm.com/cliqhop.pls"}
