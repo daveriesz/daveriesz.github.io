@@ -1,38 +1,41 @@
-{"name":"KVCR"  ,"desc":"KVCR   91.9 FM San Bernardino"                ,"url":"https://kvcr.streamguys1.com/live","url-old":"https://mp3.kvcr.org/live.mp3"}
-{"name":"KSUA"  ,"desc":"KSUA   91.5 FM University of Alaska Fairbanks","url":"https://stream.radio.co/se776fab22/listen"}
-{"name":"KUAC"  ,"desc":"KUAC   89.9 FM Fairbanks"                     ,"url":"https://ais-sa1.streamon.fm/7180_24k.aac"}
-{"name":"WAMU"  ,"desc":"WAMU   88.5 FM Washington, DC"                ,"url":"http://wamu.org/streams/live/1/live.pls"}
-{"name":"KPCC"  ,"desc":"KPCC   89.3 FM Pasadena"                      ,"url":"https://live.wostreaming.net/direct/southerncalipr-kpccfmmp3-imc.mp3"}
-{"name":"KOMO"  ,"desc":"KOMO 1000   AM Seattle"                       ,"url":""}
-{"name":"KKJZ"  ,"desc":"KKJZ   88.1 FM Long Beach"                    ,"url":"https://18243.live.streamtheworld.com/KKJZFMAAC.aac"}
-{"name":"KSDS"  ,"desc":"KSDS   88.3 FM San Diego"                     ,"url":"https://ksds-ice.streamguys1.com/ksds.mp3"}
-{"name":"KEMC"  ,"desc":"KEMC   91.7 FM Billings"                      ,"url":"https://ypr.streamguys1.com/live"}
-{"name":"WHUS"  ,"desc":"WHUS   91.7 FM University of Connecticut"     ,"url":"http://stream.whus.org:8000/whusfm.m3u"}
-{"name":"WWVU"  ,"desc":"WWVU   91.7 FM West Virginia University"      ,"url":"https://stream.radiojar.com/56p3rt9eytzuv"}
-{"name":"WXPN"  ,"desc":"WXPN   88.5 FM Philadelphia"                  ,"url":"https://wxpn.xpn.org/xpnmp3hi"}
-{"name":"KPBS"  ,"desc":"KPBS   89.5 FM San Diego"                     ,"url":"https://kpbs.streamguys1.com/kpbs.m3u"}
-{"name":"KQED"  ,"desc":"KQED   88.5 FM San Francisco"                 ,"url":""}
-{"name":"KTNA"  ,"desc":"KTNA   88.9 FM Talkeetna, Alaska"             ,"url":"https://ktna.broadcasttool.stream/play"}
-{"name":"KRTS"  ,"desc":""                                             ,"url":""}
-{"name":"WVPR"  ,"desc":""                                             ,"url":""}
-{"name":"WNYC"  ,"desc":""                                             ,"url":""}
-{"name":"WBUR"  ,"desc":""                                             ,"url":""}
-{"name":"KHPR"  ,"desc":""                                             ,"url":""}
-{"name":"KIPO"  ,"desc":""                                             ,"url":""}
-{"name":"KIOS"  ,"desc":""                                             ,"url":""}
-{"name":"KUCV"  ,"desc":""                                             ,"url":""}
-{"name":"WAMC"  ,"desc":""                                             ,"url":""}
-{"name":"WBTN"  ,"desc":""                                             ,"url":""}
-{"name":"WLRN"  ,"desc":""                                             ,"url":""}
-{"name":"WUSF"  ,"desc":"WUSF   89.7 FM Tampa"                         ,"url":"https://wusf.streamguys1.com/wusf-web"}
-{"name":"WSMR"  ,"desc":""                                             ,"url":""}
-{"name":"WUCF"  ,"desc":""                                             ,"url":""}
-{"name":"WUFT"  ,"desc":""                                             ,"url":""}
-{"name":"WEQX"  ,"desc":"WEQX  102.7 FM Manchester, Vermont"           ,"url":"https://crystalout.surfernetwork.com:8001/WEQX_MP3.m3u"}
-{"name":"KSDP"  ,"desc":"KSDP  830   AM Sand Point, Alaska"            ,"url":"https://stream.apradio.org/stream.aac"}
-{"name":"WGCU"  ,"desc":"WGCU   90.1 FM Fort Myers, Florida"           ,"url":"https://live.streamtheworld.com/WGCUFM.mp3"}
-{"name":"NPR24" ,"desc":"NPR 24"                                       ,"url":"https://www.npr.org/streams/mp3/nprlive24.pls"}
-{"name":"GVSDe" ,"desc":"Soma FM - Groove Salad"                       ,"url":"https://ice.somafm.com/groovesalad"}
-{"name":"GVSD"  ,"desc":"Soma FM - Groove Salad 128k mp3"              ,"url":"https://somafm.com/groovesalad.pls"}
-{"name":"GVSD32","desc":"Soma FM - Groove Salad 32k aac"               ,"url":"https://somafm.com/groovesalad32.pls"}
-{"name":"GVSD64","desc":"Soma FM - Groove Salad 64k aac"               ,"url":"https://somafm.com/groovesalad64.pls"}
+{"name":"KVCR"    ,"desc":"KVCR   91.9 FM San Bernardino"                ,"url":"https://kvcr.streamguys1.com/live","url-old":"https://mp3.kvcr.org/live.mp3"}
+{"name":"KSUA"    ,"desc":"KSUA   91.5 FM University of Alaska Fairbanks","url":"https://stream.radio.co/se776fab22/listen"}
+{"name":"KUAC"    ,"desc":"KUAC   89.9 FM Fairbanks"                     ,"url":"https://ais-sa1.streamon.fm/7180_24k.aac"}
+{"name":"WAMU"    ,"desc":"WAMU   88.5 FM Washington, DC"                ,"url":"http://wamu.org/streams/live/1/live.pls"}
+{"name":"KPCC"    ,"desc":"KPCC   89.3 FM Pasadena"                      ,"url":"https://live.wostreaming.net/direct/southerncalipr-kpccfmmp3-imc.mp3"}
+{"name":"KOMO"    ,"desc":"KOMO 1000   AM Seattle"                       ,"url":""}
+{"name":"KKJZ"    ,"desc":"KKJZ   88.1 FM Long Beach"                    ,"url":"https://18243.live.streamtheworld.com/KKJZFMAAC.aac"}
+{"name":"KSDS"    ,"desc":"KSDS   88.3 FM San Diego"                     ,"url":"https://ksds-ice.streamguys1.com/ksds.mp3"}
+{"name":"KEMC"    ,"desc":"KEMC   91.7 FM Billings"                      ,"url":"https://ypr.streamguys1.com/live"}
+{"name":"WHUS"    ,"desc":"WHUS   91.7 FM University of Connecticut"     ,"url":"http://stream.whus.org:8000/whusfm.m3u"}
+{"name":"WWVU"    ,"desc":"WWVU   91.7 FM West Virginia University"      ,"url":"https://stream.radiojar.com/56p3rt9eytzuv"}
+{"name":"WXPN"    ,"desc":"WXPN   88.5 FM Philadelphia"                  ,"url":"https://wxpn.xpn.org/xpnmp3hi"}
+{"name":"KPBS"    ,"desc":"KPBS   89.5 FM San Diego"                     ,"url":"https://kpbs.streamguys1.com/kpbs.m3u"}
+{"name":"KQED"    ,"desc":"KQED   88.5 FM San Francisco"                 ,"url":""}
+{"name":"KTNA"    ,"desc":"KTNA   88.9 FM Talkeetna, Alaska"             ,"url":"https://ktna.broadcasttool.stream/play"}
+{"name":"KRTS"    ,"desc":""                                             ,"url":""}
+{"name":"WVPR"    ,"desc":""                                             ,"url":""}
+{"name":"WNYC"    ,"desc":""                                             ,"url":""}
+{"name":"WBUR"    ,"desc":""                                             ,"url":""}
+{"name":"KHPR"    ,"desc":""                                             ,"url":""}
+{"name":"KIPO"    ,"desc":""                                             ,"url":""}
+{"name":"KIOS"    ,"desc":""                                             ,"url":""}
+{"name":"KUCV"    ,"desc":""                                             ,"url":""}
+{"name":"WAMC"    ,"desc":""                                             ,"url":""}
+{"name":"WBTN"    ,"desc":""                                             ,"url":""}
+{"name":"WLRN"    ,"desc":""                                             ,"url":""}
+{"name":"WUSF"    ,"desc":"WUSF   89.7 FM Tampa"                         ,"url":"https://wusf.streamguys1.com/wusf-web"}
+{"name":"WSMR"    ,"desc":""                                             ,"url":""}
+{"name":"WUCF"    ,"desc":""                                             ,"url":""}
+{"name":"WUFT"    ,"desc":""                                             ,"url":""}
+{"name":"WEQX"    ,"desc":"WEQX  102.7 FM Manchester, Vermont"           ,"url":"https://crystalout.surfernetwork.com:8001/WEQX_MP3.m3u"}
+{"name":"KSDP"    ,"desc":"KSDP  830   AM Sand Point, Alaska"            ,"url":"https://stream.apradio.org/stream.aac"}
+{"name":"WGCU"    ,"desc":"WGCU   90.1 FM Fort Myers, Florida"           ,"url":"https://live.streamtheworld.com/WGCUFM.mp3"}
+{"name":"NPR24"   ,"desc":"NPR 24"                                       ,"url":"https://www.npr.org/streams/mp3/nprlive24.pls"}
+{"name":"GVSDe"   ,"desc":"Soma FM - Groove Salad"                       ,"url":"https://ice.somafm.com/groovesalad"}
+{"name":"GVSD"    ,"desc":"Soma FM - Groove Salad 128k mp3"              ,"url":"https://somafm.com/groovesalad.pls"}
+{"name":"GVSD32"  ,"desc":"Soma FM - Groove Salad  32k aac"              ,"url":"https://somafm.com/groovesalad32.pls"}
+{"name":"GVSD64"  ,"desc":"Soma FM - Groove Salad  64k aac"              ,"url":"https://somafm.com/groovesalad64.pls"}
+{"name":"DEFCON"  ,"desc":"Soma FM - DEF CON      128k mp3"              ,"url":"https://somafm.com/defcon.pls"}
+{"name":"DEFCON32","desc":"Soma FM - DEF CON       32k aac"              ,"url":"https://somafm.com/defcon32.pls"}
+{"name":"DEFCON64","desc":"Soma FM - DEF CON       64k aac"              ,"url":"https://somafm.com/defcon64.pls"}
