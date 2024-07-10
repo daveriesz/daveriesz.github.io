@@ -5,6 +5,7 @@ indexfile=
 debug=1
 dolist=0
 station=
+ammode=0
 
 while [ $# -gt 0 ] ; do
   arg=`echo "$1" | sed "s/^\([^=][^=]*=\)\(.*\)$/\1/g"`
@@ -15,6 +16,7 @@ while [ $# -gt 0 ] ; do
     --list) dolist=1 ;;
     --debug|-g) debug=1 ;;
     --nodebug|+g) debug=0 ;;
+    --am) ammode=1 ;;
     *) station=$1 ;;
   esac
   shift
@@ -54,10 +56,15 @@ fi
 if [ "$url" != "" ] ; then
   printf "Streaming %s\n          %s\n" "$desc" "$url"
 
-  mpv "$url"
-  exicode=$?
-  echo mpv ended with code $exitcode
-  exit $exitcode
+  if [ $ammode -eq 0 ] ; then
+    mpv "$url"
+  else
+    mpv "$url" --ao=pcm --ao-pcm-file=/dev/stdout --really-quiet \
+    | sox -t wav - -r 20000 -b 8 -t wav - lowpass 2k \
+    | mpv -
+  fi
+  echo mpv ended with code $?
+  exit $?
 else
   echo "Couldn't find stream for station \"$station\"."
   exit 1
